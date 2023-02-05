@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+jenkinskey
+jenkinskey.pub
+terraform.tfstate
+terraform.tfstate.backup
